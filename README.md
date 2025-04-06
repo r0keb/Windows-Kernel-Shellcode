@@ -1,2 +1,2 @@
 # Windows-Kernel-Shellcode
-Three different shellcode techniques on the Windows Kernel
+The code explained on my blog post [Windos Kernel Shellcode](https://r0keb.github.io/posts/Windows-Kernel-Shellcode/)
